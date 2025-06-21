@@ -111,7 +111,7 @@ playwright install
 Clone este repositório
 
 ```bash
-git clone <[url-do-repo](https://github.com/ArturAiello-Dev/Traballho_EAD_ACD.git)>
+git clone <https://github.com/ArturAiello-Dev/Traballho_EAD_ACD.git>
 cd <Traballho_EAD_ACD>
 (Opcional) Crie e ative um ambiente virtual
 ```
